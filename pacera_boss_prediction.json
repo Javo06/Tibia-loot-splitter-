@@ -1,0 +1,55 @@
+{
+  "Pacera": [
+    {
+      "name": "Zulazza the Corruptor",
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/Zulazza_the_Corruptor.gif"
+    },
+    {
+      "name": "The Old Widow",
+      "days": [
+        "Wednesday",
+        "Thursday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/The_Old_Widow.gif"
+    },
+    {
+      "name": "Tyrn",
+      "days": [
+        "Thursday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/Tyrn.gif"
+    },
+    {
+      "name": "The Horned Fox",
+      "days": [
+        "Wednesday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/The_Horned_Fox.gif"
+    },
+    {
+      "name": "The Bloodtusk",
+      "days": [
+        "Friday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/The_Bloodtusk.gif"
+    },
+    {
+      "name": "The Evil Eye",
+      "days": [
+        "Thursday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/The_Evil_Eye.gif"
+    },
+    {
+      "name": "Zevelon Duskbringer",
+      "days": [
+        "Thursday"
+      ],
+      "image": "https://www.tibia-statistic.com/images/bosses/Zevelon_Duskbringer.gif"
+    }
+  ]
+}
